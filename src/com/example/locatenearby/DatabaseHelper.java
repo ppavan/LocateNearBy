@@ -2,13 +2,8 @@ package com.example.locatenearby;
 
 import java.sql.SQLException;
 import java.util.concurrent.atomic.AtomicInteger;
-
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
-
-
-
-import com.example.homework8.R;
 import com.j256.ormlite.android.apptools.OrmLiteSqliteOpenHelper;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.RuntimeExceptionDao;
