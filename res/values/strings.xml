@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework8</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map">Map</string>
+    <string name="place_type">Place Type:</string>
+    <string name="search">Search</string>
+    <string name="Favourite">My Favourite Places</string>
+    <string name="title_activity_favorites">Favorites</string>
+
+</resources>
