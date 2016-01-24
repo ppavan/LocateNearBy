@@ -1,15 +1,6 @@
-/*Homework 8
- * File Name: FavoritiesActivity.java
- * Harshil Sheth, Pavan Pardeshi
- */
 
 package com.example.locatenearby;
-
 import java.util.List;
-
-
-
-import com.example.homework8.R;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
@@ -19,7 +10,6 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.j256.ormlite.android.apptools.OrmLiteBaseActivity;
 import com.j256.ormlite.dao.RuntimeExceptionDao;
 import com.squareup.picasso.Picasso;
-
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
