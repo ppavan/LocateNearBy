@@ -1,11 +1,5 @@
-/*Homework 8
- * File Name: Mainactivity.java
- * Harshil Sheth, Pavan Pardeshi
- */
 
 package com.example.locatenearby;
-
-import com.example.homework8.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
